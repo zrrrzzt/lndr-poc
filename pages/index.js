@@ -6,7 +6,7 @@ const HomePage = () => {
   return (
     <>
       <h1>Velkommen</h1>
-      <QRCode value={`https://lndr.allthethings.win/item/${thisId}`} />
+      <QRCode value={`https://lndr.allthethings.win/items/${thisId}`} />
       <style global jsx>{`
         body {
           margin: 0;
