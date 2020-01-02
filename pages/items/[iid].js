@@ -5,8 +5,8 @@ const Details = ({ item }) => {
   const router = useRouter()
   const { iid } = router.query
   return (
-    <div className="flex flex-col items-center">
-      <h1 className="text-4xl font-mono">{ iid }</h1>
+    <div className='flex flex-col items-center'>
+      <h1 className='text-4xl font-mono'>{iid}</h1>
       <QRCode value={`https://lndr.allthethings.win/items/${iid}`} />
     </div>
   )

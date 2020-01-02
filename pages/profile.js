@@ -3,10 +3,10 @@ import auth0 from '../utils/auth0'
 const Profile = ({ user }) => {
   const { name, picture } = user
   return (
-    <div className="container mx-auto flex flex-col items-center">
-      <h1 className="text-4xl font-mono text-center">{ name }</h1>
-      <img src={ picture} className="rounded-lg text-center"/>
-      { JSON.stringify(user) }
+    <div className='container mx-auto flex flex-col items-center'>
+      <h1 className='text-4xl font-mono text-center'>{name}</h1>
+      <img src={picture} className='rounded-lg text-center' />
+      {JSON.stringify(user)}
     </div>
   )
 }
@@ -19,9 +19,8 @@ Profile.getInitialProps = async ({ req, res }) => {
         Location: '/api/login'
       })
       res.end()
-      return
     } else {
-      const   { user } = session
+      const { user } = session
       return { user }
     }
   }
