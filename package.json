@@ -31,8 +31,8 @@
     "next": "9.2.2",
     "postcss-import": "12.0.1",
     "qrcode.react": "1.0.0",
-    "react": "16.12.0",
-    "react-dom": "16.12.0",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
     "tailwindcss": "1.2.0"
   },
   "devDependencies": {
