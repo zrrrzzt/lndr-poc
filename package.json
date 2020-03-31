@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/zrrrzzt/lndr-poc#readme",
   "dependencies": {
-    "@auth0/nextjs-auth0": "0.10.0",
+    "@auth0/nextjs-auth0": "0.11.0",
     "@fullhuman/postcss-purgecss": "2.1.0",
     "@zeit/next-css": "1.0.1",
     "autoprefixer": "9.7.5",
