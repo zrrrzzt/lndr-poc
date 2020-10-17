@@ -33,7 +33,7 @@
     "qrcode.react": "1.0.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "tailwindcss": "1.9.3"
+    "tailwindcss": "1.9.4"
   },
   "devDependencies": {
     "ava": "3.13.0",
