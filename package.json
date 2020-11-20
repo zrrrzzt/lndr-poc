@@ -27,7 +27,7 @@
     "@fullhuman/postcss-purgecss": "3.0.0",
     "@zeit/next-css": "1.0.1",
     "autoprefixer": "10.0.2",
-    "nanoid": "3.1.16",
+    "nanoid": "3.1.17",
     "next": "10.0.2",
     "postcss-import": "13.0.0",
     "qrcode.react": "1.0.0",
