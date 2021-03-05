@@ -26,7 +26,7 @@
     "@auth0/nextjs-auth0": "1.1.0",
     "@fullhuman/postcss-purgecss": "4.0.2",
     "@zeit/next-css": "1.0.1",
-    "autoprefixer": "10.2.4",
+    "autoprefixer": "10.2.5",
     "nanoid": "3.1.20",
     "next": "10.0.7",
     "postcss-import": "14.0.0",
