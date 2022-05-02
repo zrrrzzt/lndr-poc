@@ -28,7 +28,7 @@
     "@zeit/next-css": "1.0.1",
     "autoprefixer": "10.4.4",
     "nanoid": "3.3.2",
-    "next": "12.1.4",
+    "next": "12.1.5",
     "postcss-import": "14.1.0",
     "qrcode.react": "3.0.1",
     "react": "18.0.0",
